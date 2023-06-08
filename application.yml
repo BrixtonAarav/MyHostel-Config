@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: Rating-Service
+
 eureka:
   instance:
     prefer-id-address: true
